@@ -1,0 +1,9 @@
+.each-image {
+  width: 7vw;
+  margin: 5px;
+}
+.img-but {
+  background-color: transparent;
+  border-width: 0px;
+  padding: 0px;
+}
